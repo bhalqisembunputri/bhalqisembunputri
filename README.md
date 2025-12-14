@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi, I’m Bhalqis Embun Putri 👋  
 
-<!--
-**bhalqisembunputri/bhalqisembunputri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a motivated professional with experience in education consulting, business operations, sales administration, and communications. I enjoy working in fast-paced environments, collaborating across teams, and supporting initiatives that drive growth, efficiency, and positive user impact.
 
-Here are some ideas to get you started:
+### Professional Interests
+- Business Operations & Development  
+- Education & Learning Programs  
+- Sales Administration & Customer Engagement  
+- Communications & Content Support  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Experience Highlights
+- Managed leads, follow-ups, and CRM data as a Field Education Consultant at Ruangguru  
+- Supported business operations, reporting, and cross-team coordination  
+- Delivered consultative solutions to clients while consistently achieving performance targets  
+- Experienced in stakeholder communication, documentation, and operational support  
+
+### Skills
+- Business & Operations Support  
+- Sales Administration & CRM Handling  
+- Communication & Coordination  
+- Data Tracking & Reporting  
+- Team Collaboration  
+
+### Currently
+Continuously learning and developing skills in business operations, communications, education consultant, and project support, while exploring opportunities to contribute in dynamic organizations.
+
+### 📫 Let’s Connect
+- LinkedIn: www.linkedin.com/in/bhalqisembunputri 
+- Email: bhalqisembunputri@gmail.com  
+
+✨ Open to opportunities in **operations, communications, business development, and education-related roles**.
